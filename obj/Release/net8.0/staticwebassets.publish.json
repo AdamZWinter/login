@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TLVhQiRcln5LXFmnAuzIgRcH6x2mlsVSCCyWV7S1w2k=",
+  "Source": "login",
+  "BasePath": "_content/login",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

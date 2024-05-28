@@ -1,0 +1,7 @@
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\login.exe
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\appsettings.json
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\login.dll
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\login.deps.json
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\login.runtimeconfig.json
+C:\Users\AdamWinter\login\bin\Release\net8.0\publish\login.pdb
